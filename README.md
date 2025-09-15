@@ -3,13 +3,12 @@
 
 ---
 
-- 🔭 I’m currently working on *Python Full Stack Projects using Django, Flask & React*
-- 🌱 I’m currently learning *Advanced Machine Learning and Cloud Deployment Techniques*
-- 👯 I’m looking to collaborate on *Web Applications, Data Science Projects, and Open Source Contributions*
-- 💬 Ask me about *Python, Django, SQL, Data Analysis, Machine Learning, REST APIs*
-- 📫 How to reach me *sohampowar2002@gmail.com*
+- 🔭 I’m currently working on Python Full Stack Projects using Django & React
+- 👯 I’m looking to collaborate on Web Applications, Data Science Projects, and Open Source Contributions
+- 💬 Ask me about Python, Django, SQL, Data Analyss, Machine Learning, REST APIs
+- 📫 How to reach me sohampowar2002@gmail.com*
 - 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/soham-powar)  
-- ⚡ Fun fact: I love *coding, solving problems, and learning new tech every day 🚀*
+- ⚡ Fun fact: I love coding, solving problems, and learning new tech every day 🚀
 
 ---
 
@@ -21,9 +20,7 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" alt="flask" width="40" height="40"/>
-</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
@@ -45,8 +42,8 @@
 
 <h3 align="left">Projects:</h3>
 
-- 👥 *Employee Management System* – Built with Python, SQL, HTML, CSS & JavaScript for CRUD operations and efficient backend interaction  
-- 🖼 *Deep Fake Detection in Images* – Implemented CNN models like VGG16 & MobileNet using TensorFlow for image forgery detection  
+- 👥 Employee Management System – Built with Python, SQL, HTML, CSS & JavaScript for CRUD operations and efficient backend interaction  
+- 🖼 Deep Fake Detection in Images – Implemented CNN models like VGG16 & MobileNet using TensorFlow for image forgery detection  
  
 
 
@@ -54,20 +51,20 @@
 
 <h3 align="left">Certifications:</h3>
 
-- 📜 *Data Analysis with Python* – freeCodeCamp  
-- 📜 *Java and PHP Course* – Udemy
+- 📜 Data Analysis with Python – freeCodeCamp  
+- 📜 Java and PHP Course – Udemy
 
 ---
 
 <h3 align="left">Key Achievement:</h3>
 
-- 🏆 Participated in *Young Turks* organized by Naukri Campus
+- 🏆 Participated in Young Turks organized by Naukri Campus
 
 ---
 
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sohampowar2002&show_icons=true&theme=radical" alt="Soham's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sohampowar&show_icons=true&theme=radical" alt="Soham's GitHub stats"/>
 </p>
 
