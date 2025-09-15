@@ -1,4 +1,4 @@
-<marque align="center">Hi 👋, I'm Soham Powar</marque>
+<h1 align="center">Hi 👋, I'm Soham Powar</h1>
 <h3 align="center">A passionate Python Full Stack Developer & Data Enthusiast from India</h3>
 
 ---
