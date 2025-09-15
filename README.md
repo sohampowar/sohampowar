@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham Powar</h1>
+<marque align="center">Hi 👋, I'm Soham Powar</marque>
 <h3 align="center">A passionate Python Full Stack Developer & Data Enthusiast from India</h3>
 
 ---
@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Python Full Stack Projects using Django & React
 - 👯 I’m looking to collaborate on Web Applications, Data Science Projects, and Open Source Contributions
 - 💬 Ask me about Python, Django, SQL, Data Analyss, Machine Learning, REST APIs
-- 📫 How to reach me sohampowar2002@gmail.com*
+- 📫 How to reach me sohampowar2002@gmail.com
 - 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/soham-powar)  
 - ⚡ Fun fact: I love coding, solving problems, and learning new tech every day 🚀
 
